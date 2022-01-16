@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Dsa Bootcamp_8ec7cd18"
+        },
+        {
+            "type": "java",
+            "name": "Launch armstrongno",
+            "request": "launch",
+            "mainClass": "armstrongno",
+            "projectName": "Dsa Bootcamp_8ec7cd18"
+        },
+        {
+            "type": "java",
+            "name": "Launch fib",
+            "request": "launch",
+            "mainClass": "fib",
+            "projectName": "Dsa Bootcamp_8ec7cd18"
+        },
+        {
+            "type": "java",
+            "name": "Launch isPrime",
+            "request": "launch",
+            "mainClass": "isPrime",
+            "projectName": "Dsa Bootcamp_8ec7cd18"
+        },
+        {
+            "type": "java",
+            "name": "Launch oddeven",
+            "request": "launch",
+            "mainClass": "oddeven",
+            "projectName": "Dsa Bootcamp_8ec7cd18"
+        },
+        {
+            "type": "java",
+            "name": "Launch pru",
+            "request": "launch",
+            "mainClass": "pru",
+            "projectName": "Dsa Bootcamp_8ec7cd18"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "Dsa Bootcamp_8ec7cd18"
+        },
+        {
+            "type": "java",
+            "name": "Launch sopos",
+            "request": "launch",
+            "mainClass": "sopos",
+            "projectName": "Dsa Bootcamp_8ec7cd18"
+        },
+        {
+            "type": "java",
+            "name": "Launch switchcase",
+            "request": "launch",
+            "mainClass": "switchcase",
+            "projectName": "Dsa Bootcamp_8ec7cd18"
+        }
+    ]
+}
